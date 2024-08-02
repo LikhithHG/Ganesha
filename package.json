@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://LikhithHG.github.io/ganesha",
+  "homepage": "https://LikhithHG.github.io/Ganesha",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
