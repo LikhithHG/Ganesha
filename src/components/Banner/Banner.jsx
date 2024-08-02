@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-scroll";
 
 import "./Banner.css";
 
@@ -16,7 +17,9 @@ const Banner = () => {
         type="button"
         className="text-red-800 w-fit bg-yellow-400 hover:bg-yellow-500 focus:outline-none font-medium rounded-full text-sm px-5 py-2.5 mt-4 text-center"
       >
-        Donate Now
+        <Link to={"donation-container"} smooth={true} duration={500}>
+          Donate Now
+        </Link>
       </button>
     </div>
   );

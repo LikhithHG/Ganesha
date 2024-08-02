@@ -1,5 +1,6 @@
 import React from "react";
 import "./Donation.css";
+import qrCodeImage from "../../assets/images/Zelle.jpg";
 
 const Donation = () => {
   return (
@@ -19,7 +20,7 @@ const Donation = () => {
 
       <div className="qr-code-container">
         <img
-          src="src/assets/images/Zelle.jpg"
+          src={qrCodeImage}
           alt="QR Code for Donation"
           className="qr-code"
         />
