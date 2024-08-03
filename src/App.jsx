@@ -13,11 +13,11 @@ function App() {
         <Banner />
       </section>
 
-      <section className="events-container">
+      <section id="events" className="events-container">
         <Events />
       </section>
 
-      <section className="donation-container">
+      <section id="donations" className="donation-container">
         <Donation />
       </section>
       
