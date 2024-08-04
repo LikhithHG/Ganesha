@@ -4,10 +4,6 @@ export const navLinks = [
     to: "events",
   },
   {
-    title: "Volunteering",
-    to: "volunteering",
-  },
-  {
     title: "Donations",
     to: "donations",
   },

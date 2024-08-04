@@ -12,115 +12,116 @@ const Events = () => {
         </h2>
       </div>
 
-      <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
-        <div className="m-4 w-40">
-          <h2 className="text-7xl">06</h2>
-          <h3 className="text-3xl">Sept</h3>
+      <div className="flex flex-wrap justify-center gap-4">
+        <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
+          <div className="m-4 w-40">
+            <h2 className="text-7xl">06</h2>
+            <h3 className="text-3xl">Sept</h3>
+          </div>
+          <div className="px-6 py-4 text-left">
+            <p className="text-gray-700 text-base">Prana Prathishta</p>
+            <p className="text-gray-700 text-base">Bhajan</p>
+            <p className="text-gray-700 text-base">Aarti</p>
+            <p className="text-gray-700 text-base">Prasad</p>
+          </div>
         </div>
-        <div className="px-6 py-4 text-left">
-          <p className="text-gray-700 text-base">Prana Prathishta</p>
-          <p className="text-gray-700 text-base">Bhajan</p>
-          <p className="text-gray-700 text-base">Aarti</p>
-          <p className="text-gray-700 text-base">Prasad</p>
+
+        <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
+          <div className="m-4 w-40">
+            <h2 className="text-7xl">07</h2>
+            <h3 className="text-3xl">Sept</h3>
+          </div>
+          <div className="px-6 py-4 text-left">
+            <p className="text-gray-700 text-base">Bhajan</p>
+            <p className="text-gray-700 text-base">Aarti</p>
+            <p className="text-gray-700 text-base">Prasad</p>
+          </div>
+        </div>
+
+        <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
+          <div className="m-4 w-40">
+            <h2 className="text-7xl">08</h2>
+            <h3 className="text-3xl">Sept</h3>
+          </div>
+          <div className="px-6 py-4 text-left">
+            <p className="text-gray-700 text-base">Bhajan</p>
+            <p className="text-gray-700 text-base">Aarti</p>
+            <p className="text-gray-700 text-base">Prasad</p>
+          </div>
+        </div>
+
+        <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
+          <div className="m-4 w-40">
+            <h2 className="text-7xl">09</h2>
+            <h3 className="text-3xl">Sept</h3>
+          </div>
+          <div className="px-6 py-4 text-left">
+            <p className="text-gray-700 text-base">Bhajan</p>
+            <p className="text-gray-700 text-base">Aarti</p>
+            <p className="text-gray-700 text-base">Prasad</p>
+          </div>
+        </div>
+
+        <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
+          <div className="m-4 w-40">
+            <h2 className="text-7xl">10</h2>
+            <h3 className="text-3xl">Sept</h3>
+          </div>
+          <div className="px-6 py-4 text-left">
+            <p className="text-gray-700 text-base">Bhajan</p>
+            <p className="text-gray-700 text-base">Aarti</p>
+            <p className="text-gray-700 text-base">Prasad</p>
+          </div>
+        </div>
+
+        <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
+          <div className="m-4 w-40">
+            <h2 className="text-7xl">11</h2>
+            <h3 className="text-3xl">Sept</h3>
+          </div>
+          <div className="px-6 py-4 text-left">
+            <p className="text-gray-700 text-base">Bhajan</p>
+            <p className="text-gray-700 text-base">Aarti</p>
+            <p className="text-gray-700 text-base">Prasad</p>
+          </div>
+        </div>
+
+        <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
+          <div className="m-4 w-40">
+            <h2 className="text-7xl">12</h2>
+            <h3 className="text-3xl">Sept</h3>
+          </div>
+          <div className="px-6 py-4 text-left">
+            <p className="text-gray-700 text-base">Bhajan</p>
+            <p className="text-gray-700 text-base">Aarti</p>
+            <p className="text-gray-700 text-base">Prasad</p>
+          </div>
+        </div>
+
+        <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
+          <div className="m-4 w-40">
+            <h2 className="text-7xl">13</h2>
+            <h3 className="text-3xl">Sept</h3>
+          </div>
+          <div className="px-6 py-4 text-left">
+            <p className="text-gray-700 text-base">Bhajan</p>
+            <p className="text-gray-700 text-base">Aarti</p>
+            <p className="text-gray-700 text-base">Maha Anna Santharpan</p>
+          </div>
+        </div>
+
+        <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
+          <div className="m-4 w-40">
+            <h2 className="text-7xl">14</h2>
+            <h3 className="text-3xl">Sept</h3>
+          </div>
+          <div className="px-6 py-4 text-left">
+            <p className="text-gray-700 text-base">Procession</p>
+            <p className="text-gray-700 text-base">Ganapati Visarjan</p>
+            <p className="text-gray-700 text-base">Prasad</p>
+          </div>
         </div>
       </div>
-
-      <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
-        <div className="m-4 w-40">
-          <h2 className="text-7xl">07</h2>
-          <h3 className="text-3xl">Sept</h3>
-        </div>
-        <div className="px-6 py-4 text-left">
-          <p className="text-gray-700 text-base">Bhajan</p>
-          <p className="text-gray-700 text-base">Aarti</p>
-          <p className="text-gray-700 text-base">Prasad</p>
-        </div>
-      </div>
-
-      <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
-        <div className="m-4 w-40">
-          <h2 className="text-7xl">08</h2>
-          <h3 className="text-3xl">Sept</h3>
-        </div>
-        <div className="px-6 py-4 text-left">
-          <p className="text-gray-700 text-base">Bhajan</p>
-          <p className="text-gray-700 text-base">Aarti</p>
-          <p className="text-gray-700 text-base">Prasad</p>
-        </div>
-      </div>
-
-      <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
-        <div className="m-4 w-40">
-          <h2 className="text-7xl">09</h2>
-          <h3 className="text-3xl">Sept</h3>
-        </div>
-        <div className="px-6 py-4 text-left">
-          <p className="text-gray-700 text-base">Bhajan</p>
-          <p className="text-gray-700 text-base">Aarti</p>
-          <p className="text-gray-700 text-base">Prasad</p>
-        </div>
-      </div>
-
-      <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
-        <div className="m-4 w-40">
-          <h2 className="text-7xl">10</h2>
-          <h3 className="text-3xl">Sept</h3>
-        </div>
-        <div className="px-6 py-4 text-left">
-          <p className="text-gray-700 text-base">Bhajan</p>
-          <p className="text-gray-700 text-base">Aarti</p>
-          <p className="text-gray-700 text-base">Prasad</p>
-        </div>
-      </div>
-
-      <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
-        <div className="m-4 w-40">
-          <h2 className="text-7xl">11</h2>
-          <h3 className="text-3xl">Sept</h3>
-        </div>
-        <div className="px-6 py-4 text-left">
-          <p className="text-gray-700 text-base">Bhajan</p>
-          <p className="text-gray-700 text-base">Aarti</p>
-          <p className="text-gray-700 text-base">Prasad</p>
-        </div>
-      </div>
-
-      <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
-        <div className="m-4 w-40">
-          <h2 className="text-7xl">12</h2>
-          <h3 className="text-3xl">Sept</h3>
-        </div>
-        <div className="px-6 py-4 text-left">
-          <p className="text-gray-700 text-base">Bhajan</p>
-          <p className="text-gray-700 text-base">Aarti</p>
-          <p className="text-gray-700 text-base">Prasad</p>
-        </div>
-      </div>
-
-      <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
-        <div className="m-4 w-40">
-          <h2 className="text-7xl">13</h2>
-          <h3 className="text-3xl">Sept</h3>
-        </div>
-        <div className="px-6 py-4 text-left">
-          <p className="text-gray-700 text-base">Bhajan</p>
-          <p className="text-gray-700 text-base">Aarti</p>
-          <p className="text-gray-700 text-base">Maha Anna Santharpan</p>
-        </div>
-      </div>
-
-      <div className="max-w-lg rounded overflow-hidden shadow-lg flex items-center">
-        <div className="m-4 w-40">
-          <h2 className="text-7xl">14</h2>
-          <h3 className="text-3xl">Sept</h3>
-        </div>
-        <div className="px-6 py-4 text-left">
-          <p className="text-gray-700 text-base">Procession</p>
-          <p className="text-gray-700 text-base">Ganapati Visarjan</p>
-          <p className="text-gray-700 text-base">Prasad</p>
-        </div>
-      </div>
-
     </div>
   );
 };
