@@ -20,27 +20,7 @@ const AboutUs = () => {
                 </ul>               
             </p>
         <p className="text-gray-700 text-lg mb-4">
-            To ensure the success of this event, we are seeking the support of esteemed organizations like yours. Your sponsorship will help us cover the costs of organizing the festival, including venue arrangements, decorations, security, and promotional activities. In return, we offer a range of benefits to our sponsors:
-        </p>
-        <p className="text-gray-700 text-lg mb-4">
-            <ol>
-                <li>Brand Visibility: Your company's logo will be prominently displayed on event banners, promotional materials, and social media channels.</li>
-                <li>Acknowledgment: Special mention and thanks during the event announcements and ceremonies.</li>
-                <li>Community Engagement: Opportunity to engage directly with a diverse and culturally rich audience.</li>
-            </ol>    .
-        </p>
-        <p className="text-gray-700 text-lg mb-4">
-            We have various sponsorship packages available to suit different levels of contribution:
-        </p>
-        <p className="text-gray-700 text-lg mb-4">
-            <ol>
-                <li>Gold Sponsor: $501 - Large size space on Flyer and at the Venue</li>
-                <li>Silver Sponsor: $301 - Medium size space on Flyer and at the Venue</li>
-                <li>Bronze Sponsor: $201 - Small size space on Flyer</li>
-            </ol>    .
-        </p>
-        <p className="text-gray-700 text-lg mb-4">
-        We would be honored to have your esteemed organization as a sponsor for Ganesh Utsav 2024. Your support will not only enhance the event's success but also demonstrate your commitment to cultural and community development.
+            To ensure the success of this event, we are seeking the support of esteemed organizations. Your sponsorship will help us cover the costs of organizing the festival, including venue arrangements, decorations, security, and promotional activities.
         </p>
 
         {/*<div className="mt-6 flex justify-center">
