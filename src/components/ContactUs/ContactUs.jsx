@@ -25,12 +25,6 @@ const ContactUs = () => {
             <strong>Phone:</strong> (916) 693-9454
           </p>
           <br />
-          <p className="text-lg text-gray-700 mb-2">
-            <strong>Chiranth Kalyanpura</strong>
-          </p>
-          <p className="text-lg text-gray-700">
-            <strong>Phone:</strong> (916) 273-2056
-          </p>
         </div>
       </div>
     </div>

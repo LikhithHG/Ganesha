@@ -14,6 +14,7 @@ const Donate = () => {
             Make this event a grand success
           </h2>
         </div>
+
         <div className="grid grid-cols-1 md:grid-cols-2 justify-center items-center gap-4 mt-6">
           <div className="md:basis-1/2">
             <img
@@ -29,6 +30,17 @@ const Donate = () => {
               className="h-auto w-2/3 md:w-2/4 m-auto md:ml-12"
             />
           </div>
+        </div>
+
+        <div>
+          <p className="text-1xl md:text-1xl mt-2 font-bold text-customPurple">
+              <br/>
+              Please find the Zelle email and phone
+              <br/>
+              Email: zellesgus@shreeganeshutsavsac.org
+              <br/>
+              Phone: (916) 693-3927
+          </p>
         </div>
       </div>
     </div>

@@ -28,6 +28,12 @@ const AboutUs = () => {
         <p className="text-gray-700  text-lg mb-4">
         In addition to Rajesh Yawantikar and Pankaj Pandey, the Ganesh Puja Samiti's board of directors includes several other dedicated individuals who bring diverse skills and perspectives to the organization. Each director plays a vital role in planning and executing events, community outreach, and ensuring the smooth operation of the Samiti.
         </p>
+        <p className="text-gray-700  text-lg mb-4">
+        Shree Ganesh Utsav Samiti's Core Team member, Paresh Sinha, plays a crucial role in the festival's organization. He is responsible for securing necessary permissions from the city authorities, ensuring the smooth conduct of events such as the immersion of the idol in the lake and managing the permissions required for processions within the city. His efforts are vital to the success of the celebrations.
+        </p>
+        <p className="text-gray-700  text-lg mb-4">
+        Sunil Kumar and Santosh Mishra are key members of the Shree Ganesh Utsav Samiti's Core Team. They play an essential role in managing and executing the event, ensuring that all aspects of the celebration run smoothly and successfully. Their dedication and teamwork are integral to the festival's success.
+        </p>
 
         <h3><strong>Activities and Community Engagement</strong></h3>
         <p className="text-gray-700  text-lg mb-4">
