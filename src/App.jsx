@@ -22,7 +22,6 @@ function App() {
       <Events />
       <Donation />
       <AboutUs />
-      <ContactUs />
       <Footer />
     </>
   );

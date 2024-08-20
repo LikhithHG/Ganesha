@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-scroll";
+import { FaLocationDot } from "react-icons/fa6";
 import "./Banner.css";
 
 const Banner = () => {
@@ -18,6 +19,16 @@ const Banner = () => {
           6th September through 14th September
         </p>
       </div>
+
+      <div className="flex gap-2 items-center mt-4">
+        <FaLocationDot size={15} />
+        <div className="text-xs">
+          <p className="self-center md:text-lg whitespace-nowrap text-yellow-200">
+            Masonic Center, 1000 Duchow Way, Forlsom, CA 99560
+          </p>
+        </div>
+      </div>
+
       <button
         type="button"
         className="text-green-800 w-fit bg-neutral-400 hover:bg-yellow-500 focus:outline-none font-medium rounded-full text-sm px-5 py-2.5 mt-4 text-center"
