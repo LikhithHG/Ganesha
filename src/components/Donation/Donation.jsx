@@ -32,7 +32,7 @@ const Donate = () => {
           </div>
         </div>
 
-        <div>
+        <div classname = "mb-4">
           <p className="text-1xl md:text-1xl mt-2 font-bold text-customPurple">
               <br/>
               Please find the Zelle email and phone
