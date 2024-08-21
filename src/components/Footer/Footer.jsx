@@ -11,21 +11,7 @@ const Footer = () => {
     <footer className="bg-white" id="footer">
       <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div className="md:flex md:justify-evenly">
-          <div className="mb-6 md:mb-0">
-            <p className="self-center text-2xl font-semibold whitespace-nowrap">
-              Shree Ganesh Utsav Samithi
-            </p>
-
-            <div className="flex gap-2 items-center mt-4">
-              <FaLocationDot size={30} />
-              <div>
-                <p className="self-center whitespace-nowrap">
-                  Masonic Center, 1000 Duchow Way
-                </p>
-                <p>Forlsom, CA 99560</p>
-              </div>
-            </div>
-          </div>
+          
           <div>
             <h2 className="mb-6 text-lg font-semibold text-gray-900">
               Contact us
