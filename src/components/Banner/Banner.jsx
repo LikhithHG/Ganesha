@@ -16,7 +16,7 @@ const Banner = () => {
           Ganesh Chaturthi
         </h1>
         <p className="text-xs md:text-2xl text-yellow-200 font-semibold md:mt-4">
-          6th September through 14th September
+          26th August through 30th August 2025
         </p>
       </div>
 
@@ -24,7 +24,7 @@ const Banner = () => {
         <FaLocationDot size={15} />
         <div className="text-xs">
           <p className="self-center md:text-2xl whitespace-nowrap text-yellow-200">
-            Masonic Center, 1000 Duchow Way, Forlsom, CA 99560
+            Masonic Center, 1000 Duchow Way, Forlsom, CA 95630
           </p>
         </div>
       </div>

@@ -17,7 +17,7 @@ const Events = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 items-center w-fit gap-4 md:gap-8 my-4 mx-auto">
         {events.map((event, index) => {
-          const { date, eventList } = event;
+          const { date, time, eventList } = event;
           return (
             <div
               key={index}
@@ -25,7 +25,8 @@ const Events = () => {
             >
               <div className="p-5 w-24 md:w-40 bg-[#FADBD8] text-red-900">
                 <h2 className="text-4xl md:text-7xl">{date}</h2>
-                <h3 className="text-2xl md:text-3xl">Sept</h3>
+                <h3 className="text-2xl md:text-3xl">Aug</h3>
+                <h6 className="text-2xs md:text-3xs">{time}</h6>
               </div>
               <div className="px-6 md:py-4 text-left">
                 <ul className="max-w-md space-y-1 text-red-800 list-inside ">

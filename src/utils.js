@@ -19,39 +19,28 @@ export const navLinks = [
 
 export const events = [
   {
-    date: "06",
-    eventList: ["Prana Prathishta", "Bhajan", "Aarti", "Prasad"],
+    date: "26",
+    time: "6pm - 9pm",
+    eventList: ["Prana Prathishta", "Bhajan", "Aarti", "Ganesh Mahapooja Prasad"],
   },
   {
-    date: "07",
-    eventList: ["Bhajan", "Aarti", "Prasad"],
+    date: "27",
+    time: "6pm - 9pm",
+    eventList: ["Bhajan", "Aarti", "Ganesh Mahapooja Prasad"],
   },
   {
-    date: "08",
-    eventList: ["Bhajan", "Aarti", "Prasad"],
+    date: "28",
+    time: "6pm - 9pm",
+    eventList: ["Bhajan", "Aarti", "Ganesh Mahapooja Prasad"],
   },
   {
-    date: "09",
-    eventList: ["Bhajan", "Aarti", "Prasad"],
-  },
-  {
-    date: "10",
-    eventList: ["Bhajan", "Aarti", "Prasad"],
-  },
-  {
-    date: "11",
-    eventList: ["Bhajan", "Aarti", "Prasad"],
-  },
-  {
-    date: "12",
-    eventList: ["Bhajan", "Aarti", "Prasad"],
-  },
-  {
-    date: "13",
+    date: "29",
+    time: "6pm - 10pm",
     eventList: ["Bhajan", "Aarti", "Maha Anna Santharpan"],
   },
   {
-    date: "14",
-    eventList: ["Procession", "Visarjan", "Prasad"],
+    date: "30",
+    time: "10am - 6pm",
+    eventList: ["Cultural Performances", "Shree Ganesh Shobhayatra", "Visarjan", "Prasad Seva"],
   },
 ];
